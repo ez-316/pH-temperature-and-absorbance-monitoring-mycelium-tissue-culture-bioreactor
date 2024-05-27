@@ -4,39 +4,18 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: pH, temperature and absorbance monitoring Mycelium tissue culture bioreactor
 
-Describe your project
+== Step 1: Assemble the circuit
 
-== Step 1: Installation
-Please describe the steps to install this project.
+Assemble the circuit following the diagrams
 
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
-
-== Step 2: Assemble the circuit
-
-Assemble the circuit following the diagram layout.png attached to the sketch
-
-== Step 3: Load the code
+== Step 2: Load the code
 
 Upload the code contained in this sketch on to your board
 
-=== Folder structure
-
-....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
-....
-
 === License
-This project is released under a {License} License.
+This project is open-source
 
 === Contributing
 To contribute to this project please contact ballerpokez https://id.arduino.cc/ballerpokez
